@@ -73,6 +73,8 @@ Unity · C# · Java · Swing/AWT
 
 **Video Pose Estimation + 3D Character Rendering**
 
+<img src="https://raw.githubusercontent.com/haesongkk/haesongkk/main/motion.gif" width="720"/>
+
 - **형태**: 개인 프로젝트
 - **기술 스택**: Python, OpenCV, MediaPipe, PyOpenGL, GLSL, pygltflib, GLB
 - **Repository**: https://github.com/haesongkk/MotionCapture
@@ -93,6 +95,8 @@ Unity · C# · Java · Swing/AWT
 ### 4. PolyPort
 
 **Direct2D 기반 자체 2D 엔진 + 퍼즐 플랫폼 게임**
+
+<img src="https://raw.githubusercontent.com/haesongkk/haesongkk/main/polyport.gif" width="720"/>
 
 - **기간**: 약 3주
 - **팀 구성**: 개발 3명, 기획 2명, 아트 2명
@@ -120,6 +124,8 @@ Unity · C# · Java · Swing/AWT
 
 **Java 기반 테트리스 + P2P 네트워크 배틀**
 
+<img src="https://raw.githubusercontent.com/haesongkk/haesongkk/main/tetris.gif" width="720"/>
+
 - **기간**: 1학기
 - **팀 구성**: 개발 4명
 - **기술 스택**: Java 17, Swing/AWT, Gradle, JUnit Jupiter, Jacoco, SpotBugs, Checkstyle, Gson
@@ -144,6 +150,8 @@ P2P 네트워크 배틀과 배틀 씬을 구현했으며, 게임오버/스코어
 
 **Unity 기반 2D 리듬 러너 게임**
 
+<img src="https://raw.githubusercontent.com/haesongkk/haesongkk/main/runner.gif" width="720"/>
+
 - **기간**: 약 1주
 - **형태**: 개인 프로젝트
 - **기술 스택**: Unity, C#, JSON
@@ -165,6 +173,8 @@ P2P 네트워크 배틀과 배틀 씬을 구현했으며, 게임오버/스코어
 
 **Windows Console API 기반 2D 생존 게임**
 
+<img src="https://raw.githubusercontent.com/haesongkk/haesongkk/main/survive.gif" width="720"/>
+
 - **기간**: 약 1주
 - **형태**: 개인 프로젝트
 - **기술 스택**: C++, Windows Console API, GetAsyncKeyState, Windows Multimedia API
@@ -181,8 +191,6 @@ P2P 네트워크 배틀과 배틀 씬을 구현했으며, 게임오버/스코어
 - 콘솔 더블 버퍼링 렌더링
 - Windows API 기반 입력 및 사운드 처리
 
----
-
 ## Project Focus
 
 | Area | Projects |
@@ -194,8 +202,6 @@ P2P 네트워크 배틀과 배틀 씬을 구현했으며, 게임오버/스코어
 | Game Client Programming | PolyPort, 2D-RUNNER-GAME, Survive38s |
 | Networking / Team Project | SE_Tetris_Team1 |
 | AI + 3D Pipeline | Image-to-World, MotionCapture |
-
----
 
 ## Current Direction
 
