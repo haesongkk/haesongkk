@@ -73,7 +73,7 @@ Unity · C# · Java · Swing/AWT
 
 **Video Pose Estimation + 3D Character Rendering**
 
-<img src="https://raw.githubusercontent.com/haesongkk/haesongkk/main/motion.gif" width="720"/>
+<img src="https://raw.githubusercontent.com/haesongkk/MotionCapture/main/screenshot.gif" width="720"/>
 
 - **형태**: 개인 프로젝트
 - **기술 스택**: Python, OpenCV, MediaPipe, PyOpenGL, GLSL, pygltflib, GLB
@@ -96,7 +96,7 @@ Unity · C# · Java · Swing/AWT
 
 **Direct2D 기반 자체 2D 엔진 + 퍼즐 플랫폼 게임**
 
-<img src="https://raw.githubusercontent.com/haesongkk/haesongkk/main/polyport.gif" width="720"/>
+<img src="https://raw.githubusercontent.com/haesongkk/PolyPort/main/screenshot.gif" width="720"/>
 
 - **기간**: 약 3주
 - **팀 구성**: 개발 3명, 기획 2명, 아트 2명
@@ -124,7 +124,7 @@ Unity · C# · Java · Swing/AWT
 
 **Java 기반 테트리스 + P2P 네트워크 배틀**
 
-<img src="https://raw.githubusercontent.com/haesongkk/haesongkk/main/tetris.gif" width="720"/>
+<img src="https://raw.githubusercontent.com/haesongkk/SE_Tetris_Team1/main/screenshot.gif" width="720"/>
 
 - **기간**: 1학기
 - **팀 구성**: 개발 4명
@@ -150,7 +150,7 @@ P2P 네트워크 배틀과 배틀 씬을 구현했으며, 게임오버/스코어
 
 **Unity 기반 2D 리듬 러너 게임**
 
-<img src="https://raw.githubusercontent.com/haesongkk/haesongkk/main/runner.gif" width="720"/>
+<img src="https://raw.githubusercontent.com/haesongkk/2D-RUNNER-GAME/main/screenshot.gif" width="720"/>
 
 - **기간**: 약 1주
 - **형태**: 개인 프로젝트
@@ -173,7 +173,7 @@ P2P 네트워크 배틀과 배틀 씬을 구현했으며, 게임오버/스코어
 
 **Windows Console API 기반 2D 생존 게임**
 
-<img src="https://raw.githubusercontent.com/haesongkk/haesongkk/main/survive.gif" width="720"/>
+<img src="https://raw.githubusercontent.com/haesongkk/Survive38s/main/screenshot.gif" width="720"/>
 
 - **기간**: 약 1주
 - **형태**: 개인 프로젝트
